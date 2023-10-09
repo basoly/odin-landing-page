@@ -153,11 +153,9 @@ body {
     color: #1F2938;
     max-width: 600px;
     font-weight: 100;
-    border: thin solid blue;
 }
 
 .boxC>#boxC-2 {
-    border: thin solid red;
     align-self: flex-end;
     margin-right: 200px;
     font-size: 20px;
